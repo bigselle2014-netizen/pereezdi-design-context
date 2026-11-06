@@ -1,0 +1,26 @@
+{
+  "source": "pilot-gruzoperevozki/docs/audience/svod.json",
+  "note": "Historical testimony, not verified events or measured purchase priorities. Selected on 2026-11-04; original review dates not authenticated here.",
+  "items": [
+    {
+      "topic": "Опоздание и неявка бригады",
+      "quote": "Подали неисправный (без 1-й передачи и ремня безопасности пассажира ) FORD-TRANSIT, с опозданием более часа, г/п в 1 тонну, со слов водителя.",
+      "url": "https://www.otzyvru.com/ald-gruzoperevozki-po-moskve-i-oblasti/info"
+    },
+    {
+      "topic": "Доплата на месте и рост цены",
+      "quote": "намекая на то, что уже начинается третий час их работы и, в случае, если мы хотим, чтобы диван был собран полностью, нужно приготовить еще денег за следующий час",
+      "url": "https://2gis.ru/firm/70000001017302287/tab/reviews"
+    },
+    {
+      "topic": "Цена совпала с расчётом, без доплат",
+      "quote": "Фактическая стоимость оказалась почти на 10% меньше предварительно заявленной - откорректировали по реально затраченным времени и упаковочным материалам.",
+      "url": "https://2gis.ru/firm/70000001048720851/tab/reviews"
+    },
+    {
+      "topic": "Страх за сохранность вещей",
+      "quote": "Очень пугал этот процесс, особенно, что касается мебели, которую надо будет разобрать – перевести – собрать…",
+      "url": "https://2gis.ru/firm/70000001048720851/tab/reviews"
+    }
+  ]
+}

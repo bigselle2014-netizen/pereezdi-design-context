@@ -1,0 +1,269 @@
+[
+  {
+    "domain": "podorojnik.ru",
+    "status": 200,
+    "title": "Грузоперевозки по Москве и Московской области дешево в транспортной компании «Подорожник» | Перевозка грузов по Москве недорого | Цены на грузовые перевозки и доставку грузов",
+    "h": [],
+    "buttons": [
+      [
+        "Рассчитать",
+        "rgb(31, 29, 28)"
+      ],
+      [
+        "Оплатить\n\nдоставку\n\nБанковской картой или через СБ",
+        "rgb(255, 255, 255)"
+      ]
+    ]
+  },
+  {
+    "domain": "gazelkin.ru",
+    "error": "page.goto: Timeout 14000ms exceeded."
+  },
+  {
+    "domain": "tpereezd.ru",
+    "status": 200,
+    "title": "Переезд по Москве дешево, заказать переезд с грузчиками в Москве недорого, услуги переезда под ключ",
+    "h": [
+      [
+        "ПЕРЕЕЗД С ГРУЗЧИКАМИ",
+        "opensansbold, sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "КВАРТИРНЫЙ ПЕРЕЕЗД",
+        "rgb(227, 227, 227)"
+      ],
+      [
+        "ОФИСНЫЙ ПЕРЕЕЗД",
+        "rgb(227, 227, 227)"
+      ],
+      [
+        "ГРУЗЧИКИ",
+        "rgb(227, 227, 227)"
+      ],
+      [
+        "УПАКОВКА",
+        "rgb(227, 227, 227)"
+      ],
+      [
+        "ДЕМОНТАЖ",
+        "rgb(227, 227, 227)"
+      ]
+    ]
+  },
+  {
+    "domain": "moskva.standart-express.ru",
+    "error": "page.goto: Timeout 14000ms exceeded."
+  },
+  {
+    "domain": "gettruck.ru",
+    "status": 200,
+    "title": "Транспортная компания грузоперевозки по Москве и области | Перевозки грузов для бизнеса и юридических лиц - компания Gettruck.",
+    "h": [
+      [
+        "Транспортная компания Gettruck",
+        "\"Open Sans\", sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "Заказать звонок",
+        "rgb(255, 34, 0)"
+      ],
+      [
+        "Вход",
+        "rgb(255, 255, 255)"
+      ],
+      [
+        "3 000 ₽ в подарок при заказе",
+        "rgb(255, 34, 0)"
+      ]
+    ]
+  },
+  {
+    "domain": "euro-pereezdy.ru",
+    "status": 200,
+    "title": "Переезд с грузчиками и упаковкой в Москве и области. Офисные и квартирные переезды под ключ недорого в Европейском переезде",
+    "h": [
+      [
+        "ПЕРЕЕЗДЫ ПО\nМОСКВЕ И\nОБЛАСТИ",
+        "\"Open Sans\", Arial, sans-serif"
+      ]
+    ],
+    "buttons": []
+  },
+  {
+    "domain": "centerpereezd.ru",
+    "status": 200,
+    "title": "Грузоперевозки в Москве и области – перевозка грузов недорого, быстро и надежно | Центр Переезд ®",
+    "h": [
+      [
+        "Грузоперевозки в Москве",
+        "Roboto, Arial, sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "Подробнее",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Офисный переезд",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Квартирный переезд",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Все услуги",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Вакансии",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Читать отзывы",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Подробнее",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Офисный переезд",
+        "rgb(231, 97, 24)"
+      ],
+      [
+        "Квартирный переезд",
+        "rgb(231, 97, 24)"
+      ]
+    ]
+  },
+  {
+    "domain": "gazelkin.com",
+    "status": 200,
+    "title": "Перевозки с НДС и без НДС для юридических лиц в Москве",
+    "h": [
+      [
+        "Перевозки\nдля вашего\nбизнеса.",
+        "GazelkinInter, GazelkinRoboto, Arial, sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "Корпоративным клиентам",
+        "rgb(255, 255, 255)"
+      ],
+      [
+        "Перезвоним",
+        "rgb(255, 255, 255)"
+      ],
+      [
+        "Оплатить заказ",
+        "rgb(255, 255, 255)"
+      ],
+      [
+        "Разрешить cookies",
+        "rgb(255, 217, 64)"
+      ],
+      [
+        "Только необходимые",
+        "rgb(255, 255, 255)"
+      ]
+    ]
+  },
+  {
+    "domain": "cargo-avto.ru",
+    "status": 200,
+    "title": "Грузоперевозки по Москве недорого | Услуги перевозки грузов по городу и области",
+    "h": [
+      [
+        "Грузоперевозки по Москве и Московской области",
+        "\"PT Sans Caption\", Arial, sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "Оплата онлайн",
+        "rgb(252, 129, 0)"
+      ],
+      [
+        "АКЦИИ",
+        "rgb(255, 0, 0)"
+      ]
+    ]
+  },
+  {
+    "domain": "best-gruzchik.ru",
+    "status": 200,
+    "title": "Грузчики Москва | Заказать услуги профессиональных грузчиков для переезда и перевозки недорого",
+    "h": [
+      [
+        "Грузчики в Москве",
+        "Manrope"
+      ]
+    ],
+    "buttons": [
+      [
+        "ПЕРЕЗВОНИТЕ МНЕ",
+        "rgb(244, 146, 14)"
+      ],
+      [
+        "Только необходимые",
+        "rgb(255, 255, 255)"
+      ],
+      [
+        "Настроить",
+        "rgb(123, 11, 120)"
+      ]
+    ]
+  },
+  {
+    "domain": "lugg.com",
+    "status": 200,
+    "title": "Lugg: On-Demand Moving & Furniture Delivery",
+    "h": [
+      [
+        "On-demand movers\narriving within an hour",
+        "Circular, \"Circular Fallback\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+      ]
+    ],
+    "buttons": []
+  },
+  {
+    "domain": "ask50.seo-rezult.ru",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://ask50.seo-rezult.ru/"
+  },
+  {
+    "domain": "www.usm.com",
+    "error": "page.screenshot: Timeout 5000ms exceeded."
+  },
+  {
+    "domain": "www.fritzhansen.com",
+    "status": 200,
+    "title": "Furniture, lighting and accessory design - Fritz Hansen",
+    "h": [
+      [
+        "PK22™ & PK61™",
+        "HansenGrotesque, sans-serif"
+      ],
+      [
+        "NEWS 2026",
+        "HansenGrotesque, sans-serif"
+      ]
+    ],
+    "buttons": [
+      [
+        "EXPLORE",
+        "rgb(255, 255, 255)"
+      ]
+    ]
+  },
+  {
+    "domain": "www.mypieceofcakemove.com",
+    "error": "page.goto: Timeout 14000ms exceeded."
+  }
+]
